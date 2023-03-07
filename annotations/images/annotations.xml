@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>91917</id>
+      <size>50</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-02-27 09:15:55.052794+00:00</created>
+      <updated>2023-03-03 17:15:58.431828+00:00</updated>
+      <subset>default</subset>
+      <start_frame>5050</start_frame>
+      <stop_frame>5099</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>91917</id>
+          <start>5050</start>
+          <stop>5099</stop>
+          <url>https://app.cvat.ai/api/jobs/91917</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>sohaylaelsayed</username>
+        <email>sohayla@cyberneticlabs.io</email>
+      </owner>
+      <assignee>
+        <username>mohamed66</username>
+        <email>mohd.salem099@gmail.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>line</name>
+          <color>#5c9263</color>
+          <type>any</type>
+          <attributes>
+            <attribute>
+              <name>value</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value></default_value>
+              <values></values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2023-03-06 08:01:06.843431+00:00</dumped>
+  </meta>
+  <image id="5050" name="title_1999-فبراير-06-0028.png_2.png" width="737" height="87">
+    <polygon label="line" source="manual" occluded="0" points="69.18,-0.00;64.19,82.49;74.62,87.00;670.69,87.00;669.91,0.00" z_order="0">
+      <attribute name="value">احمد العطار فرعون كرة اليد :</attribute>
+    </polygon>
+  </image>
+  <image id="5051" name="title_1999-فبراير-06-0028.png_3.png" width="494" height="108">
+    <polygon label="line" source="manual" occluded="0" points="165.87,0.00;62.31,0.79;65.61,108.00;471.87,108.00;467.82,0.00" z_order="0">
+      <attribute name="value">"السلة" إلى "اليد"</attribute>
+    </polygon>
+  </image>
+  <image id="5052" name="title_1999-فبراير-06-0029.png_8.png" width="1435" height="147">
+    <polygon label="line" source="manual" occluded="0" points="1435.00,1.67;465.24,-0.00;18.61,0.00;14.70,147.00;1432.60,147.00;1435.00,37.13" z_order="0">
+      <attribute name="value">لاعبة يواصلن التدريب بالمركز الأوليمبي بالمعادي استعدادا لبطولة البرتغال</attribute>
+    </polygon>
+  </image>
+  <image id="5053" name="title_1999-فبراير-06-0030.png_0.png" width="2013" height="145">
+    <polygon label="line" source="manual" occluded="0" points="528.10,0.00;127.54,0.24;129.81,142.56;143.21,145.00;1240.95,145.00;1990.24,140.29;2007.21,0.00" z_order="0">
+      <attribute name="value">الاتحادات الرياضية تلقن لاعبيها ولاعباتها دروسا قاسية ولا مجال للتهاون !</attribute>
+    </polygon>
+  </image>
+  <image id="5054" name="title_1999-فبراير-06-0030.png_4.png" width="766" height="23">
+  </image>
+  <image id="5055" name="title_1999-فبراير-06-0031.png_3.png" width="362" height="43">
+    <polygon label="line" source="manual" occluded="0" points="8.73,0.00;12.05,43.00;352.38,43.00;356.68,0.00" z_order="0">
+      <attribute name="value">راشد وكيلا للوزارة</attribute>
+    </polygon>
+  </image>
+  <image id="5056" name="title_1999-فبراير-06-0031.png_5.png" width="753" height="64">
+    <polygon label="line" source="manual" occluded="0" points="28.84,0.00;25.98,62.48;525.72,64.00;724.93,64.00;729.39,0.00" z_order="0">
+      <attribute name="value">توحيد مساحات القمح بالمنوفية</attribute>
+    </polygon>
+  </image>
+  <image id="5057" name="title_1999-فبراير-06-0031.png_6.png" width="357" height="41">
+    <polygon label="line" source="manual" occluded="0" points="151.63,0.00;32.71,1.41;29.35,41.00;313.42,41.00;320.89,0.00" z_order="0">
+      <attribute name="value">لتطبيقات الذكاء الاصطناعي</attribute>
+    </polygon>
+  </image>
+  <image id="5058" name="title_1999-فبراير-06-0031.png_8.png" width="357" height="51">
+    <polygon label="line" source="manual" occluded="0" points="354.17,0.16;0.00,0.57;0.00,0.80;0.00,50.44;354.98,49.43" z_order="0">
+      <attribute name="value">المعمل المركزي للنظم الزراعية الخبيرة</attribute>
+    </polygon>
+  </image>
+  <image id="5059" name="title_1999-فبراير-06-0031.png_9.png" width="443" height="59">
+    <polygon label="line" source="manual" occluded="0" points="71.21,0.00;66.21,59.00;366.17,59.00;377.65,0.00" z_order="0">
+      <attribute name="value">عن عيش الغراب</attribute>
+    </polygon>
+  </image>
+  <image id="5060" name="title_1999-فبراير-06-0032.png_2.png" width="1228" height="85">
+    <polygon label="line" source="manual" occluded="0" points="58.19,0.00;74.44,85.00;1194.21,85.00;1206.73,0.00" z_order="0">
+      <attribute name="value">الفا دولار أسبوعيا لكل إرهابي .. و 10 آلاف بعد نجاح العملية</attribute>
+    </polygon>
+  </image>
+  <image id="5061" name="title_1999-فبراير-06-0032.png_3.png" width="1036" height="74">
+    <polygon label="line" source="manual" occluded="0" points="55.96,0.00;73.97,74.00;1000.69,74.00;1009.80,0.00" z_order="0">
+      <attribute name="value">مقتل إرهابي مصري خبير تصنيع المتفجرات</attribute>
+    </polygon>
+  </image>
+  <image id="5062" name="title_1999-فبراير-06-0033.png_13.png" width="353" height="78">
+    <polygon label="line" source="manual" occluded="0" points="335.42,1.37;134.98,0.00;13.37,0.00;13.97,60.87;99.22,73.64;237.19,68.25;340.21,64.06" z_order="0">
+      <attribute name="value">لشكه في سلوكها</attribute>
+    </polygon>
+  </image>
+  <image id="5063" name="title_1999-فبراير-06-0033.png_15.png" width="289" height="41">
+    <polygon label="line" source="manual" occluded="0" points="3.20,0.00;5.65,41.00;174.14,41.00;243.72,40.52;246.20,0.00" z_order="0">
+      <attribute name="value">- محمد شومان :</attribute>
+    </polygon>
+  </image>
+  <image id="5064" name="title_1999-فبراير-06-0033.png_17.png" width="754" height="161">
+    <polygon label="line" source="manual" occluded="0" points="754.00,63.66;9.36,76.02;27.65,161.00;754.00,161.00" z_order="0">
+      <attribute name="value">آخرين أثناء مطاردة عصابة بسوهاج</attribute>
+    </polygon>
+    <polygon label="line" source="manual" occluded="0" points="754.00,7.78;14.48,4.80;17.04,80.28;753.55,74.74;754.00,39.52" z_order="0">
+      <attribute name="value">مصرع ضابط شرطة غرقا وإصابة 6</attribute>
+    </polygon>
+  </image>
+  <image id="5065" name="title_1999-فبراير-06-0033.png_18.png" width="760" height="70">
+    <polygon label="line" source="manual" occluded="0" points="9.70,0.00;17.09,70.00;739.11,70.00;751.05,0.00" z_order="0">
+      <attribute name="value">قتل زميلته وزوجها لسرقة مجوهرات الزوجة</attribute>
+    </polygon>
+  </image>
+  <image id="5066" name="title_1999-فبراير-06-0033.png_21.png" width="708" height="72">
+    <polygon label="line" source="manual" occluded="0" points="288.75,0.00;68.09,2.18;65.69,70.66;635.94,71.46;635.55,0.00" z_order="0">
+      <attribute name="value">خرج الزوج لإحضار الطعام</attribute>
+    </polygon>
+  </image>
+  <image id="5067" name="title_1999-فبراير-06-0033.png_4.png" width="720" height="68">
+    <polygon label="line" source="manual" occluded="0" points="36.06,0.00;31.35,67.59;114.83,68.00;699.27,68.00;700.42,0.00" z_order="0">
+      <attribute name="value">إخلاء عقارين مجاورين وارتفاع عدد الضحايا</attribute>
+    </polygon>
+  </image>
+  <image id="5068" name="title_1999-فبراير-06-0033.png_5.png" width="380" height="43">
+    <polygon label="line" source="manual" occluded="0" points="16.87,0.00;18.25,43.00;365.26,43.00;370.31,0.00" z_order="0">
+      <attribute name="value">رياض - وناصر جويدة :</attribute>
+    </polygon>
+  </image>
+  <image id="5069" name="title_1999-فبراير-06-0033.png_8.png" width="739" height="89">
+    <polygon label="line" source="manual" occluded="0" points="17.91,0.00;15.57,89.00;720.90,89.00;718.96,0.00" z_order="0">
+      <attribute name="value">إحالة أوراق بائع وصديقته إلى المفتى</attribute>
+    </polygon>
+  </image>
+  <image id="5070" name="title_1999-فبراير-06-0033.png_9.png" width="1093" height="105">
+    <polygon label="line" source="manual" occluded="0" points="30.68,0.00;1.87,0.26;2.47,105.00;665.15,105.00;1070.76,102.89;1079.81,0.00" z_order="0">
+      <attribute name="value">سرقها لص من فيلا خبير أجنبي بالمعادي</attribute>
+    </polygon>
+  </image>
+  <image id="5071" name="title_1999-فبراير-06-0034.png_4.png" width="375" height="71">
+  </image>
+  <image id="5072" name="title_1999-فبراير-06-0034.png_5.png" width="1106" height="129">
+    <polygon label="line" source="manual" occluded="0" points="1089.10,3.49;751.27,0.00;725.61,0.00;708.41,129.00;1076.79,129.00" z_order="0">
+      <attribute name="value">موسى</attribute>
+    </polygon>
+    <polygon label="line" source="manual" occluded="0" points="126.27,0.00;13.75,0.99;9.48,129.00;686.50,129.00;714.70,0.00" z_order="0">
+      <attribute name="value">فرعون مصر</attribute>
+    </polygon>
+  </image>
+  <image id="5073" name="title_1999-فبراير-06-0036.png_0.png" width="572" height="46">
+    <polygon label="line" source="manual" occluded="0" points="25.24,0.00;23.63,43.88;255.62,46.00;554.84,46.00;559.92,0.00" z_order="0">
+      <attribute name="value">صحة وعافية على الفضائية المصرية</attribute>
+    </polygon>
+  </image>
+  <image id="5074" name="title_1999-فبراير-06-0036.png_1.png" width="643" height="44">
+    <polygon label="line" source="manual" occluded="0" points="29.40,0.00;23.27,43.63;228.49,44.00;633.52,44.00;632.81,0.00" z_order="0">
+      <attribute name="value">شخصيات عز الدين ذو الفقار السينمائية</attribute>
+    </polygon>
+  </image>
+  <image id="5075" name="title_1999-فبراير-06-0036.png_18.png" width="299" height="49">
+    <polygon label="line" source="manual" occluded="0" points="13.19,0.00;13.19,49.00;171.53,49.00;269.40,48.10;270.89,0.00" z_order="0">
+      <attribute name="value">انا المجنون وليالي</attribute>
+    </polygon>
+  </image>
+  <image id="5076" name="title_1999-فبراير-06-0036.png_22.png" width="469" height="48">
+    <polygon label="line" source="manual" occluded="0" points="146.24,0.00;18.83,0.80;20.43,46.95;256.40,48.00;439.10,48.00;443.37,0.00" z_order="0">
+      <attribute name="value">الزوجة الثانية وهذا هو الحب</attribute>
+    </polygon>
+  </image>
+  <image id="5077" name="title_1999-فبراير-06-0036.png_24.png" width="490" height="51">
+    <polygon label="line" source="manual" occluded="0" points="19.24,0.00;23.54,51.00;73.85,51.00;463.66,50.02;467.70,0.00" z_order="0">
+      <attribute name="value">الخطوات الأولى وقضية عالمية</attribute>
+    </polygon>
+  </image>
+  <image id="5078" name="title_1999-فبراير-06-0036.png_27.png" width="517" height="74">
+    <polygon label="line" source="manual" occluded="0" points="480.15,16.69;311.13,26.93;323.71,69.04;483.37,67.57" z_order="0">
+      <attribute name="value">القناة السابعة</attribute>
+    </polygon>
+  </image>
+  <image id="5079" name="title_1999-فبراير-06-0036.png_28.png" width="405" height="43">
+    <polygon label="line" source="manual" occluded="0" points="25.69,0.00;13.51,0.08;18.08,43.00;377.53,43.00;384.87,0.00" z_order="0">
+      <attribute name="value">لورد فونتلروي الصغير</attribute>
+    </polygon>
+  </image>
+  <image id="5080" name="title_1999-فبراير-06-0036.png_30.png" width="594" height="84">
+    <polygon label="line" source="manual" occluded="0" points="503.29,11.26;326.23,23.69;339.00,72.40;500.94,71.73" z_order="0">
+      <attribute name="value">القناة السادسة</attribute>
+    </polygon>
+  </image>
+  <image id="5081" name="title_1999-فبراير-06-0036.png_32.png" width="536" height="67">
+  </image>
+  <image id="5082" name="title_1999-فبراير-06-0036.png_6.png" width="546" height="29">
+  </image>
+  <image id="5083" name="title_1999-فبراير-06-0037.png_14.png" width="509" height="48">
+    <polygon label="line" source="manual" occluded="0" points="14.37,0.00;13.57,48.00;491.70,48.00;490.89,0.00" z_order="0">
+      <attribute name="value">الاثنين : الاعتراف والمعلمة سماح</attribute>
+    </polygon>
+  </image>
+  <image id="5084" name="title_1999-فبراير-06-0037.png_15.png" width="486" height="69">
+    <polygon label="line" source="manual" occluded="0" points="370.50,0.00;108.04,1.93;7.98,6.88;9.08,68.73;26.95,68.46;480.24,67.08;481.05,0.00" z_order="0">
+      <attribute name="value">افلام الفضائية المصرية</attribute>
+    </polygon>
+  </image>
+  <image id="5085" name="title_1999-فبراير-06-0037.png_18.png" width="356" height="53">
+    <polygon label="line" source="manual" occluded="0" points="65.67,0.00;69.46,52.99;284.51,52.38;287.29,0.00" z_order="0">
+      <attribute name="value">خالد زكي :</attribute>
+    </polygon>
+  </image>
+  <image id="5086" name="title_1999-فبراير-06-0037.png_3.png" width="617" height="77">
+    <polygon label="line" source="manual" occluded="0" points="560.44,0.00;163.69,6.58;176.95,73.23;563.27,64.86;563.62,0.00" z_order="0">
+      <attribute name="value">قناة النيل الدولية</attribute>
+    </polygon>
+  </image>
+  <image id="5087" name="title_1999-فبراير-06-0037.png_5.png" width="718" height="147">
+    <polygon label="line" source="manual" occluded="0" points="38.52,0.00;64.95,147.00;665.39,147.00;671.17,0.00" z_order="0">
+      <attribute name="value">لم أخش المقارنة</attribute>
+    </polygon>
+  </image>
+  <image id="5088" name="title_1999-فبراير-06-0040.png_0.png" width="487" height="68">
+    <polygon label="line" source="manual" occluded="0" points="24.24,0.00;22.88,68.00;104.86,68.00;482.04,64.15;485.05,0.00" z_order="0">
+      <attribute name="value">الف حكاية وحكاية</attribute>
+    </polygon>
+  </image>
+  <image id="5089" name="title_1999-فبراير-06-0040.png_2.png" width="535" height="81">
+    <polygon label="line" source="manual" occluded="0" points="376.72,0.00;29.35,4.65;36.61,69.71;498.99,69.41;503.41,0.00" z_order="0">
+      <attribute name="value">ألف حكاية وحكاية</attribute>
+    </polygon>
+  </image>
+  <image id="5090" name="title_1999-فبراير-06-0040.png_3.png" width="511" height="62">
+    <polygon label="line" source="manual" occluded="0" points="345.38,0.00;17.91,1.96;14.83,62.00;493.36,62.00;501.05,0.00" z_order="0">
+      <attribute name="value">فنار الإسكندرية من البللور</attribute>
+    </polygon>
+  </image>
+  <image id="5091" name="title_1999-فبراير-06-0040.png_5.png" width="343" height="49">
+    <polygon label="line" source="manual" occluded="0" points="277.55,0.00;21.34,2.48;20.95,47.69;321.47,46.14;321.47,0.00" z_order="0">
+      <attribute name="value">في مثل هذا اليوم</attribute>
+    </polygon>
+  </image>
+  <image id="5092" name="title_1999-فبراير-06-0042.png_3.png" width="404" height="74">
+    <polygon label="line" source="manual" occluded="0" points="149.21,0.00;11.89,1.01;16.91,72.30;152.69,74.00;382.83,74.00;384.77,0.00" z_order="0">
+      <attribute name="value">من غير عنوان</attribute>
+    </polygon>
+  </image>
+  <image id="5093" name="title_1999-فبراير-07-0001.png_11.png" width="1569" height="142">
+    <polygon label="line" source="manual" occluded="0" points="1555.69,1.33;1090.36,0.00;7.99,0.00;7.99,142.00;1291.37,142.00;1552.14,141.55" z_order="0">
+      <attribute name="value">مبارك يعرب عن حزنه للحالة الصحية للملك حسين ويؤكد مساندته للأردن قيادة وشعبا</attribute>
+    </polygon>
+  </image>
+  <image id="5094" name="title_1999-فبراير-07-0001.png_15.png" width="1097" height="80">
+    <polygon label="line" source="manual" occluded="0" points="0.10,0.00;0.00,79.40;1080.26,80.00;1092.11,0.00" z_order="0">
+      <attribute name="value">معدلات العمل تجاوزت الجداول الزمنية بأكثر من 100 %</attribute>
+    </polygon>
+  </image>
+  <image id="5095" name="title_1999-فبراير-07-0001.png_17.png" width="746" height="88">
+    <polygon label="line" source="manual" occluded="0" points="733.33,1.59;395.01,0.00;15.91,0.00;10.12,87.67;735.44,83.45" z_order="0">
+      <attribute name="value">تشييع جثمان لطفي الخولي إلى مثواه الأخير</attribute>
+    </polygon>
+  </image>
+  <image id="5096" name="title_1999-فبراير-07-0001.png_19.png" width="769" height="75">
+    <polygon label="line" source="manual" occluded="0" points="23.57,0.00;33.30,75.00;420.11,75.00;744.64,73.81;749.20,0.00" z_order="0">
+      <attribute name="value">مصر تحذر مجددا من استمرار سياسة الاستيطان الإسرائيلية</attribute>
+    </polygon>
+  </image>
+  <image id="5097" name="title_1999-فبراير-07-0001.png_20.png" width="769" height="62">
+    <polygon label="line" source="manual" occluded="0" points="127.29,0.00;132.66,42.10;643.30,37.75;636.47,0.00" z_order="0">
+      <attribute name="value">غدا أمام الدورة الاستثنائية للجمعية العامة</attribute>
+    </polygon>
+  </image>
+  <image id="5098" name="title_1999-فبراير-07-0001.png_25.png" width="766" height="72">
+    <polygon label="line" source="manual" occluded="0" points="757.77,0.69;672.84,0.00;14.94,0.00;17.74,72.00;749.56,72.00" z_order="0">
+      <attribute name="value">إقامة نظام اقتصادي عربي ضرورة للتعامل مع التكتلات العالمية</attribute>
+    </polygon>
+  </image>
+  <image id="5099" name="title_1999-فبراير-07-0001.png_27.png" width="439" height="47">
+    <polygon label="line" source="manual" occluded="0" points="14.85,0.00;14.41,47.00;184.64,47.00;422.12,46.71;428.46,0.00" z_order="0">
+      <attribute name="value">الزعيمان يواصلان مباحثاتهما في شرم الشيخ</attribute>
+    </polygon>
+  </image>
+</annotations>
